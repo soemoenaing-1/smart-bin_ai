@@ -1,0 +1,17 @@
+# Streamlit Waste Detection App Requirements
+
+# Core dependencies
+streamlit>=1.28.0
+ultralytics>=8.0.0
+pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+pandas>=2.0.0
+
+# For webcam streaming
+streamlit-webrtc>=6.0.0
+av>=12.0.0
+
+# For better performance
+torch>=2.0.0
+torchvision>=0.15.0
